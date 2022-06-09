@@ -23,6 +23,6 @@
 ##### :pushpin: *Eveplate is a generator to help you kickstart new projects based on Devery.js and a set of frameworks.*
 - [Live version](https://devery.github.io/eveplate/)
 - *Responsibilities: Project Manager, Graphic designer*
-### :memo: [XRPL Fixarta NFT Explorer]([https://github.com/devery/eveplate](https://github.com/petushka1/xrpl-Non-Fungible-Token-Product-Edition-Proposal)
+### :memo: [XRPL Fixarta NFT Explorer](https://github.com/petushka1/xrpl-Non-Fungible-Token-Product-Edition-Proposal)
 ##### :pushpin: *Description: Solution built as a POC of Fixarta solution aiming to extend the XRPL non-fungible token Standard*
 - *Responsibilities: Concept design, front-end, Project Manager, Graphic design*
