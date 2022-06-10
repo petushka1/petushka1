@@ -9,6 +9,11 @@
 #### Technologies
 - Javascript
 
+### :memo: [To Do List](https://github.com/petushka1/to-do-list-revised)
+#### :pushpin: *Description: Dynamically created list of to do tasks stored on local storage. Functionality: add/remove task, edit description, check completed, clear all completed*
+#### Technologies
+- Javascript
+
 ### :metal: Before Microverse I gained some extra skills and experience:
 - Design and digital art
 - Project management and team-leading
