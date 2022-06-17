@@ -1,5 +1,5 @@
 ## 😄 I'm Nadia from Ukraine, a software developer and a student at [Microverse](https://www.microverse.org/)
-### :zap: I'm an ideas generator passionate about technologies, blockchain, art, and fashion
+### :zap: I'm an ideas generator passionate about technologies, blockchain, art, and fashion.
 ### :rocket: You can check my progress:
 ### :memo: [Capstone Project 1](https://github.com/petushka1/physical-collectibles-nft-global-event-website)
 #### :pushpin: *Description: A website built for portfolio. The custom subject is selected accordingly to market trends and innovations in the NFT space. Custom design created specifically for this project*
@@ -13,6 +13,17 @@
 #### :pushpin: *Description: Dynamically created list of to do tasks stored on local storage. Functionality: add/remove task, edit description, check completed, clear all completed*
 #### Technologies
 - Javascript
+- Node.js
+- npm
+
+*Recently, I discovered a passion for testing and specifically Jest. 
+### :hammer: :wrench: [Jest Testing](https://github.com/petushka1/to-do-list-jest-testing)
+#### :pushpin: *Description: Test written with use of Jest lib, mocked support functions, local storage and jsdom*
+#### Technologies
+- Javascript
+- Jest
+- Node.js
+- npm
 
 ### :metal: Before Microverse I gained some extra skills and experience:
 - Design and digital art
