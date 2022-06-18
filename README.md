@@ -1,6 +1,6 @@
 ## 😄 I'm Nadia from Ukraine, a software developer and a student at [Microverse](https://www.microverse.org/)
 ### 🟢 Open to work
-[reach out to me](mailto:chigiwowwow@gmail.com)
+email: [chigiwowwow@gmail.com](mailto:chigiwowwow@gmail.com)
 
 ## About myself
 ### :zap: I'm an ideas generator passionate about technologies, blockchain, art, and fashion.
