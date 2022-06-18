@@ -1,5 +1,23 @@
 ## 😄 I'm Nadia from Ukraine, a software developer and a student at [Microverse](https://www.microverse.org/)
+### 🟢 Open to work
+[reach out to me](mailto:chigiwowwow@gmail.com)
+
+## About myself
 ### :zap: I'm an ideas generator passionate about technologies, blockchain, art, and fashion.
+### Hard Skills:
+- JavaScript
+- CSS/HTML
+- Node.js, npm
+- Jest
+- AI, Figma, Ps, Ae
+- UI/UX, Product design
+
+### Soft Skills:
+- Project manager/Product owner/CEO & Founder
+- Communication and partnerships
+- Organizing and handling Hackathons
+- Marketing
+
 ### :rocket: You can check my progress:
 ### :memo: [Capstone Project 1](https://github.com/petushka1/physical-collectibles-nft-global-event-website)
 #### :pushpin: *Description: A website built for portfolio. The custom subject is selected accordingly to market trends and innovations in the NFT space. Custom design created specifically for this project*
