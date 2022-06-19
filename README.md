@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 ## I'm Nadia from Ukraine a software developer and a student at [Microverse](https://www.microverse.org/)
 ### 🟢 Open to work.
 [reach out to me](mailto:chigiwowwow@gmail.com)
