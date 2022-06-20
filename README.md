@@ -32,7 +32,7 @@ pushpin: *Description: A website built for portfolio. The custom subject is sele
 - Custom design and graphics
 
 **Technologies**
-- Javascript
+- JavaScript
 
 #### :memo: [To Do List](https://github.com/petushka1/to-do-list-revised)
 :pushpin: *Description: Dynamically created list of to do tasks stored on local storage. Functionality: add/remove task, edit description, check completed, clear all completed*
@@ -40,7 +40,7 @@ pushpin: *Description: A website built for portfolio. The custom subject is sele
 [Live version](https://petushka1.github.io/to-do-list-revised/)
 
 **Technologies**
-- Javascript
+- JavaScript
 - Node.js
 - npm
 
@@ -49,7 +49,7 @@ pushpin: *Description: A website built for portfolio. The custom subject is sele
 :pushpin: *Description: Test written with use of Jest lib, mocked support functions, local storage and jsdom*
 
 **Technologies**
-- Javascript
+- JavaScript
 - Jest
 - Node.js
 - npm
