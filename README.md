@@ -21,7 +21,7 @@
 - Marketing
 
 ## :star: Portfolio 
-### :rocket: You can check my progress:
+### :rocket: You can check my progress: [here](https://petushka1.github.io/microverse-m1-w1-d3-portfolio-production/)
 
 #### :memo: [Capstone Project 1](https://github.com/petushka1/physical-collectibles-nft-global-event-website)
 pushpin: *Description: A website built for portfolio. The custom subject is selected accordingly to market trends and innovations in the NFT space. Custom design created specifically for this project*
