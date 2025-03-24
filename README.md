@@ -30,7 +30,7 @@
 
 
 ### Projects:
-- #### :memo: [Fixarta](https://github.com/fixarta)
+#### :memo: [Fixarta](https://github.com/fixarta)
 :pushpin: *Description: Verification application for both art and fashion built on top of Devery open-source protocol and powered on Ethereum blockchain*
 
 #### :memo: [Eveplate](https://github.com/devery/eveplate)
