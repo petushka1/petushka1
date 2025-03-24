@@ -8,6 +8,9 @@
 ### I'm an ideas generator passionate about technologies, blockchain, art, and fashion. 
 ### Hard Skills:
 - JavaScript
+- ReactJS
+- - Move (SUI)
+- Ruby, RoR
 - CSS/HTML
 - Node.js, npm
 - Jest
@@ -16,52 +19,19 @@
 
 ### Soft Skills:
 - Project manager/Product owner/CEO & Founder
+- Team Leadership
+- Marketing, CMO
 - Communication and partnerships
 - Organizing and handling Hackathons
-- Marketing
 
-## :star: Portfolio 
-### :rocket: You can check my progress: [here](https://petushka1.github.io/microverse-m1-w1-d3-portfolio-production/)
+### Education
+- The Odessa State Academy of Refrigeration: Master of Computer Science
+- [Microverse](https://www.microverse.org/): Alumni 
 
-#### :memo: [Capstone Project 1](https://github.com/petushka1/physical-collectibles-nft-global-event-website)
-pushpin: *Description: A website built for portfolio. The custom subject is selected accordingly to market trends and innovations in the NFT space. Custom design created specifically for this project*
-
-[Live version](https://petushka1.github.io/physical-collectibles-nft-global-event-website/)
-
-**Features**
-- Custom design and graphics
-
-**Technologies**
-- JavaScript
-
-#### :memo: [To Do List](https://github.com/petushka1/to-do-list-revised)
-:pushpin: *Description: Dynamically created list of to do tasks stored on local storage. Functionality: add/remove task, edit description, check completed, clear all completed*
-
-[Live version](https://petushka1.github.io/to-do-list-revised/)
-
-**Technologies**
-- JavaScript
-- Node.js
-- npm
-
-*Recently, I discovered a passion for testing and specifically Jest. 
-#### :hammer: :wrench: [Jest Testing](https://github.com/petushka1/to-do-list-jest-testing)
-:pushpin: *Description: Test written with use of Jest lib, mocked support functions, local storage and jsdom*
-
-**Technologies**
-- JavaScript
-- Jest
-- Node.js
-- npm
-
-### :metal: Before Microverse I gained some extra skills and experience:
 
 ### Projects:
-#### :memo: [Fixarta](https://github.com/fixarta)
+- #### :memo: [Fixarta](https://github.com/fixarta)
 :pushpin: *Description: Verification application for both art and fashion built on top of Devery open-source protocol and powered on Ethereum blockchain*
-
-- [Live version](https://www.fixarta.com/)
-- *Responsibilities: Founder and CEO, Project Manager, Graphic designer, Communication, Partnerships and Marketing*
 
 #### :memo: [Eveplate](https://github.com/devery/eveplate)
 :pushpin: *Eveplate is a generator to help you kickstart new projects based on Devery.js and a set of frameworks.*
