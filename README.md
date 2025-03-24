@@ -9,7 +9,7 @@
 ### Hard Skills:
 - JavaScript
 - ReactJS
-- - Move (SUI)
+- Move (SUI)
 - Ruby, RoR
 - CSS/HTML
 - Node.js, npm
