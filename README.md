@@ -30,7 +30,11 @@
 
 
 ### Projects:
-#### :memo: [Fixarta](https://github.com/fixarta)
+
+#### :memo: [Egg-X](https://e99x.com)
+:pushpin: *Egg-X is a tokenization protocol for RWA, DePIN, and Digital Products — featuring on-chain automation, no-code UI, and embeddable widgets. Built on Sui.*
+
+#### :memo: [Fixarta](https://www.youtube.com/watch?v=TGr_AIu8tJM)
 :pushpin: *Description: Verification application for both art and fashion built on top of Devery open-source protocol and powered on Ethereum blockchain*
 
 #### :memo: [Eveplate](https://github.com/devery/eveplate)
